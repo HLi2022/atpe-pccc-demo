@@ -1,14 +1,14 @@
 # PCCC & SWCNT Visualization App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://atpe-pccc-demo.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://atpe-pccc-demo-v6n6w8ftwrlphsrypaekwk.streamlit.app/)
 
 A Streamlit application for visualizing Partition Coefficient (PCCC) and UV-Vis absorption data for Single-Walled Carbon Nanotubes (SWCNTs).
 
 ## 🚀 Live Demo
 
 **Access the running app here:**  
-👉 **[https://atpe-pccc-demo.streamlit.app](https://atpe-pccc-demo.streamlit.app)**  
-*(If your URL is different, please edit this link!)*
+👉 **[https://atpe-pccc-demo-v6n6w8ftwrlphsrypaekwk.streamlit.app/](https://atpe-pccc-demo-v6n6w8ftwrlphsrypaekwk.streamlit.app/)**  
+*(Deployment verified)*
 
 ## Features
 
