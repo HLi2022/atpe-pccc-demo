@@ -23,7 +23,22 @@ The app relies on the `data/` directory containing:
 
 - `pccc_parameters.csv`: PCCC Hill curve parameters.
 - `swcnt_info_semiconducting.csv`: Properties for semiconducting tubes.
+
 - `swcnt_info_metallic.csv`: Properties for metallic tubes.
+
+## References
+
+**PCCC Data**  
+*Precise Partitioning of Metallic Single-Wall Carbon Nanotubes and Enantiomers through Aqueous Two-Phase Extraction*  
+[ACS Nano, 2015](https://pubs.acs.org/doi/full/10.1021/acsnano.5c00025)
+
+**Semiconducting SWCNT Data**  
+*Dependence of Optical Transition Energies on Structure for Single-Walled Carbon Nanotubes in Aqueous Suspension: An Empirical Kataura Plot*  
+[Nano Lett., 2003](https://pubs.acs.org/doi/10.1021/nl034428i)
+
+**Metallic SWCNT Data**  
+*Fundamental optical processes in armchair carbon nanotubes*  
+[Nanoscale, 2013](https://pubs.rsc.org/en/content/articlelanding/2013/nr/c2nr32769d)
 
 ## How to Run Locally
 
