@@ -1,6 +1,14 @@
 # PCCC & SWCNT Visualization App
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://atpe-pccc-demo.streamlit.app)
+
 A Streamlit application for visualizing Partition Coefficient (PCCC) and UV-Vis absorption data for Single-Walled Carbon Nanotubes (SWCNTs).
+
+## 🚀 Live Demo
+
+**Access the running app here:**  
+👉 **[https://atpe-pccc-demo.streamlit.app](https://atpe-pccc-demo.streamlit.app)**  
+*(If your URL is different, please edit this link!)*
 
 ## Features
 
@@ -19,10 +27,10 @@ The app relies on the `data/` directory containing:
 
 ## How to Run Locally
 
-1.  **Clone the repository** (if using git):
+1.  **Clone the repository**:
     ```bash
-    git clone <your-repo-url>
-    cd <repo-folder>
+    git clone https://github.com/HLi2022/atpe-pccc-demo.git
+    cd atpe-pccc-demo
     ```
 
 2.  **Install dependencies**:
@@ -34,15 +42,6 @@ The app relies on the `data/` directory containing:
     ```bash
     streamlit run app.py
     ```
-
-## Deployment
-
-To deploy on [Streamlit Community Cloud](https://streamlit.io/cloud):
-
-1.  Push this code to a GitHub repository.
-2.  Log in to Streamlit Cloud.
-3.  Click "New app", select the repository, branch (usually `main`), and main file path (`app.py`).
-4.  Click "Deploy".
 
 ## License
 
