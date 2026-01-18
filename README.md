@@ -15,7 +15,7 @@ A Streamlit application for visualizing Partition Coefficient (PCCC) and UV-Vis 
 Please note the following important limitations and contexts for this tool:
 
 1.  **Simulated Spectra**: The UV-Vis plots are **simulated using Voigt profiles** for visualization and educational purposes only. They do **not** represent experimentally measured raw spectra.
-2.  **Peak Variations**: Semiconducting SWCNT peak positions ($S_{11}, S_{22}$) are sourced from **Weisman et al. (2003)** measured in SDS. These values may exhibit systematic blueshifts or differences compared to data measured in DOC or Aqueous Two-Phase Systems (ATPS).
+2.  **Peak Variations**: Semiconducting SWCNT peak positions ($S_{11}, S_{22}$) are sourced from **Weisman et al. (2003)** measured in SDS. These values may exhibit systematic blueshifts or differences compared to data measured in DOC or in organic solvents with PFO.
 3.  **Limited Dataset**: The PCCC dataset is a **small-sample demo** derived only from the publicly available parameters in the ACS Nano 2015 paper. If a specific chirality is missing, it indicates the data is **not currently indexed** in this demo, rather than a software error.
 
 ## Features
