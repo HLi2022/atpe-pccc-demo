@@ -80,7 +80,7 @@ To run this project locally, we recommend using Conda:
 If you use this tool or data in standardizing your research, please cite the original **Han Li et al. (ACS Nano 2015)** paper regarding the PCCC parameters.
 
 For the software itself:
-> **Han Li**. *ATPE PCCC Visualization Tool*. GitHub Repository, 2024. [https://github.com/HLi2022/atpe-pccc-demo](https://github.com/HLi2022/atpe-pccc-demo)
+> **Han Li**. *ATPE PCCC Visualization Tool*. GitHub Repository, 2026. [https://github.com/HLi2022/atpe-pccc-demo](https://github.com/HLi2022/atpe-pccc-demo)
 
 ## License
 
